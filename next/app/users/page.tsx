@@ -7,7 +7,7 @@ import { useEffect, useState } from "react";
 type usuariosType = {
     id: number,
     nome: string,
-    email: number
+    email: string
 }
 
 export default function Home() {
